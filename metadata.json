@@ -1,0 +1,10 @@
+{
+  "name": "NutriSilage AI - Smart Feed & Silage Quality Testing",
+  "description": "AI-enabled rapid feed and silage nutritional quality testing system for dairy farmers with computer vision AR overlays, real-time analytics, and blockchain quality certification.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
